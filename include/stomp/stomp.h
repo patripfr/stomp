@@ -23,8 +23,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#ifndef INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_H_
-#define INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_H_
+#ifndef STOMP_H_
+#define STOMP_H_
 
 #include <atomic>
 #include <stomp/utils.h>
@@ -204,4 +204,4 @@ protected:
 
 } /* namespace stomp */
 
-#endif /* INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_H_ */
+#endif /* STOMP_H_ */

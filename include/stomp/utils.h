@@ -23,8 +23,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#ifndef INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_UTILS_H_
-#define INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_UTILS_H_
+#ifndef STOMP_UTILS_H_
+#define STOMP_UTILS_H_
 
 #include <string>
 #include <vector>
@@ -191,4 +191,4 @@ std::string toString(const Eigen::MatrixXd& data);
 
 } /* namespace stomp */
 
-#endif /* INDUSTRIAL_MOVEIT_STOMP_INCLUDE_STOMP_STOMP_UTILS_H_ */
+#endif /* STOMP_UTILS_H_ */
